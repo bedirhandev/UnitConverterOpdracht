@@ -5,6 +5,6 @@ Please download the folders to a common directory and open the solution file (in
 
 Source code location:
 ***
-The directory UnitConverterApp contains the code for the demo in UnitConverterApp/Program.cs.
-The directory UnitConverterLibrary contains the code for the class library in UnitConverterLibrary/UnitConvertedLibrary.cs.
-The directory UnitConverterTests contains the code for the unit test of the class library (UnitConvertedLibrary.cs) in UnitConverterTests/UnitConverterTests.cs.
+* The directory UnitConverterApp contains the code for the demo in UnitConverterApp/Program.cs.
+* The directory UnitConverterLibrary contains the code for the class library in * UnitConverterLibrary/UnitConvertedLibrary.cs.
+* The directory UnitConverterTests contains the code for the unit test of the class library (UnitConvertedLibrary.cs) in UnitConverterTests/UnitConverterTests.cs.
